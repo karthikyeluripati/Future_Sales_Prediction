@@ -2,6 +2,8 @@
 
 #### Sales prediction is the practice of foretelling the volume of goods or services a sales unit will sell over the course of the following week, month, quarter, or year in order to estimate future revenue. Future-focused topics dominate sales forecasting. Making accurate sales projections is crucial for a business.
 
+#### Dataset- https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/data
+
 ### Below is a list of the data contained in this project:
 #### sales_train.csv: The training set. Daily historical data from January 2013 to October 2015.
 #### test.csv: The test set. There is need to forecast the sales for these shops and products for November 2015.
